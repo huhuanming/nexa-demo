@@ -1,4 +1,7 @@
 {
+  "scripts": {
+    "start": "node src/index.mjs"
+  },
   "dependencies": {
     "@bitauth/libauth": "^1.19.1",
     "@nexajs/address": "^23.6.7",
